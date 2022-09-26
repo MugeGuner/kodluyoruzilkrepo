@@ -2,6 +2,6 @@
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-#Installation
+# Installation
 
-	*Coming soon*
+*Coming soon*
